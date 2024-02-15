@@ -1,3 +1,4 @@
 bisa js dalam 1 bulan 
 bisa react js
 bisa python
+bisa tensorlfow
